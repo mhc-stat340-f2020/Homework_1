@@ -1,0 +1,25 @@
+---
+title: "Homework 1"
+subtitle: "STAT 340: Applied Regression Methods"
+output: pdf_document
+---
+
+\emph{Due date: Friday, August 28}
+
+The objectives of this assignment are:
+
+(1) to give you some familiarity with applied statistical writing before you are asked to do it yourself,
+(2) find out what applied statistics writing looks like in different fields, and
+(3) make you familiar with the rubric that will be used to assess your own writing. 
+
+The assignment is as follows:
+
+(1) Find an academic, peer-reviewed publication that uses some form of regression (e.g., linear regression, generalized linear models, spatial statistics, etc.) in its statistical methods. This can be in any field, like biology, finance, astronomy, or anything else you can think of. If you can access Google, the Google Scholar is pretty useful for this kind of search, where you will use some regression keywords, and subject matter keywords in your search. If you cannot access Google (or even if you can!), the Mount Holyoke College library website is also a fantastic option.
+
+(2) Read the article that you find, and assess the paper using the written assignment rubric - you can find a link on the Moodle site under Course Tools / Grading and Assessment. Be sure to justify your assessments. Also, make note of any questions or constructive feedback that you have about the rubric.
+
+(3) On the Moodle forum for Homework 1, post the following:
+
+    - a PDF of the article you read or a link if you found it on the Mount Holyoke College library website, as this should be universally accessible;
+    - your assessment of the paper based on the rubric (you should give scores of 0-3 for each section) and justification;
+    - questions/constructive feedback on the rubric.
